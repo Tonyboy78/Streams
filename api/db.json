@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "What a nice day",
+      "description": "I am very happy!",
+      "userId": "100373402176159431264",
+      "id": 1
+    },
+    {
+      "title": "Car",
+      "description": "What a nice car!",
+      "userId": "100373402176159431264",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "description": "My name is AM",
+      "userId": "100373402176159431264",
+      "id": 3
+    }
+  ]
+}
